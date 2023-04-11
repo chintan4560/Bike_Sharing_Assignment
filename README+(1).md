@@ -1,12 +1,13 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Bike_Sharing
+> A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. The US bike-sharing provider wants to understand the factors on which the demand for these shared bikes depends. 
+> In this project, we will discover which variables are significant in predicting the demand for shared bikes and building linear regression model for prediction of count of shared bikes.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Data Processing](#data-processing)
+* [Data Analysis](#EDA)
+* [Model Building]
+* [Conclusion]
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -35,14 +36,11 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chintan4560] - feel free to contact me!
 
 
 <!-- Optional -->
