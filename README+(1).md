@@ -12,30 +12,31 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- We are required to model the demand for shared bikes with the available independent variables. It will be used by the bike-sharing company to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Data Processing
+- Data Understanding
+- Data Cleaning
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Data Analysis
+- Uni-variate Analysis- numeric & categorical variables
+- Bi-variate Analysis
+- Observations from analysis
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+## Model Building
+- Data Preparation 
+- Building Linear regression model using SKLearn with RFE
+- Building Linear regression model using Statsmodel
+- Residual Analysis
+- Model Evaluation
+
+## Conclusions
+- 
 
 
 
