@@ -6,8 +6,8 @@
 * [General Info](#general-information)
 * [Data Processing](#data-processing)
 * [Data Analysis](#EDA)
-* [Model Building]
-* [Conclusion]
+* [Model Building](#)
+* [Conclusion](#)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
