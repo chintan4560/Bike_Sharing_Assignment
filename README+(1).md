@@ -36,8 +36,17 @@
 - Model Evaluation
 
 ## Conclusions
-- 
+- Developed linear regression model with R^2 value of 83%.
+- Top three features which affect demand of shared bikes are Weather situation, Year and Season.
 
+## Technologies used
+- AutoViz==0.0.6
+- Python 3.X
+- numpy - 1.22.4
+- pandas - 1.3.5
+- seaborn - 0.11.2
+- matplotlib - 3.5.3
+- scikit-learn 1.2.2
 
 
 ## Contact
